@@ -18,6 +18,7 @@ To run the code use:
 python cam.py
 ```
 
+> **NOTE**: May not work on WSL2.
 
 ### in Windows
 
